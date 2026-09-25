@@ -46,11 +46,15 @@ The dashboard contains three visuals:
 - Several countries show relatively high hunger severity, indicating persistent food-security challenges.
 - Higher hunger severity is generally concentrated among countries with lower GDP per capita.
 
+
 ## Dashboard
 
 ![Global Food Security Dashboard](global-food-security-dashboard.png)
 
+
+
 ## Project Files
 
--  `global_food_security_analysis.sql` - SQL queries used for the analysis
-- `global-food-security-dashboard.png` - Power BI dashboard screenshot
+- [SQL Analysis](global_food_security_analysis.sql)
+- [Power BI Dashboard](global-food-security-dashboard.png)
+
